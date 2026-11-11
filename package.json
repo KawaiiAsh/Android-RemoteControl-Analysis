@@ -1,0 +1,19 @@
+{
+  "name": "yk-mumu-control",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server/dev.mjs",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}

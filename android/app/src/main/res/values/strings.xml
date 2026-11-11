@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">yk Remote</string>
+    <string name="accessibility_service_description">在你主动连接本地电脑后，读取无障碍界面公开的可见文字并允许点按、滑动和导航。不会读取输入框内容或密码；实时图像共享需要单独授权。</string>
+</resources>
